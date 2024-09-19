@@ -1,0 +1,19 @@
+.section-n {
+  height: 31px;
+  position: relative;
+  width: 104px;
+}
+
+.section-n .section {
+  color: #ffffff;
+  font-family: "Anuphan", Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  height: 31px;
+  left: 2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+}

@@ -1,0 +1,39 @@
+.dev-station-title {
+  height: 617px;
+  position: relative;
+  width: 1957px;
+}
+
+.dev-station-title .your-all-in-one-dev {
+  color: transparent;
+  font-family: "Anuphan", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  height: 166px;
+  left: 555px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+}
+
+.dev-station-title .span {
+  color: #ffffff;
+}
+
+.dev-station-title .text-wrapper-2 {
+  color: #fca516;
+}
+
+.dev-station-title.property-1-1-default {
+  overflow: hidden;
+}
+
+.dev-station-title.property-1-1-default .your-all-in-one-dev {
+  opacity: 0.02;
+  top: 624px;
+}
+
+.dev-station-title.property-1-1-variant-2 .your-all-in-one-dev {
+  top: 214px;
+}

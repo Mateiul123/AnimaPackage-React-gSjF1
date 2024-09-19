@@ -1,0 +1,47 @@
+.btn-section {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  position: relative;
+}
+
+.btn-section .section-btn {
+  align-items: center;
+  flex: 0 0 auto;
+  justify-content: center;
+  position: relative;
+}
+
+.btn-section .class {
+  flex: 1 !important;
+  flex-grow: 1 !important;
+  width: unset !important;
+}
+
+.btn-section .section-btn-line {
+  background-color: #fca516;
+  position: relative;
+}
+
+.btn-section .property-1-3-default {
+  display: flex;
+  width: 104px;
+}
+
+.btn-section .property-1-3-variant-2 {
+  display: inline-flex;
+}
+
+.btn-section .property-1-4-default {
+  height: 3px;
+  opacity: 0.02;
+  width: 2px;
+}
+
+.btn-section .property-1-4-variant-2 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  width: 100%;
+}

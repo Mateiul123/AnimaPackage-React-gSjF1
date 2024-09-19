@@ -1,0 +1,59 @@
+.element {
+  height: 192px;
+  width: 773px;
+}
+
+.element .overlap-group-2 {
+  height: 170px;
+  position: relative;
+  top: -1px;
+  width: 612px;
+}
+
+.element .get-your-projects {
+  color: transparent;
+  font-family: "Anuphan", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  height: 166px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.element .text-wrapper-3 {
+  color: #ffffff;
+}
+
+.element .text-wrapper-4 {
+  color: #fca516;
+}
+
+.element .faster-cheaper-wrapper {
+  height: 80px;
+  left: 245px;
+  overflow: hidden;
+  position: absolute;
+  top: 90px;
+  width: 367px;
+}
+
+.element .faster-cheaper {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(252, 165, 22) 0%, rgb(93.49, 26.49, 4.16) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Anuphan", Helvetica;
+  font-size: 64px;
+  font-weight: 700;
+  height: 249px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-fill-color: transparent;
+  top: -7px;
+}

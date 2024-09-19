@@ -1,0 +1,92 @@
+.frame {
+  background-color: #1e1e1e;
+  border-radius: 12px;
+  height: 60px;
+  overflow: hidden;
+  width: 201px;
+}
+
+.frame .overlap-group {
+  height: 87px;
+  left: -19px;
+  position: relative;
+  top: -13px;
+  width: 237px;
+}
+
+.frame .rectangle {
+  border-radius: 12px;
+  height: 60px;
+  left: 19px;
+  position: absolute;
+  top: 13px;
+  width: 201px;
+}
+
+.frame .rectangle-wrapper {
+  height: 87px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 237px;
+}
+
+.frame .div {
+  left: 14px;
+  position: relative;
+  width: 221px;
+}
+
+.frame .text-wrapper {
+  font-family: "Anuphan", Helvetica;
+  font-size: 36px;
+  font-weight: 700;
+  height: 47px;
+  left: 59px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+}
+
+.frame .hover {
+  background-color: #fca516;
+}
+
+.frame .default {
+  background-color: #fca516;
+}
+
+.frame .variant-3 {
+  background-color: #ffffff;
+}
+
+.frame .property-1-hover {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(252, 165, 22) 0%, rgb(67.99, 20.55, 3.31) 100%);
+  height: 79px;
+  top: -2px;
+}
+
+.frame .property-1-default {
+  background: radial-gradient(50% 50% at 50% 50%, rgba(252, 165, 22, 0.02) 0%, rgba(67.99, 20.55, 3.31, 0.02) 100%);
+  height: 4px;
+  top: 73px;
+}
+
+.frame .property-1-variant-3 {
+  background: radial-gradient(50% 50% at 50% 50%, rgb(252, 165, 22) 0%, rgb(67.99, 20.55, 3.31) 100%);
+  height: 1px;
+  top: 76px;
+}
+
+.frame .property-1-0-hover {
+  color: #ffffff;
+}
+
+.frame .property-1-0-default {
+  color: #000000;
+}
+
+.frame .property-1-0-variant-3 {
+  color: #fca516;
+}
